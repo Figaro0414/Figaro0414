@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jonathan Moya</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
-- 📫 How to reach me **Jonathan.moya0414@gmail.com**
+- 📫 How to reach me **<email>**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
