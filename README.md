@@ -82,18 +82,11 @@ A backend-focused application built with **Java and Spring Boot**, demonstrating
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Figaro0414&show_icons=true&locale=en"
-    alt="Jonathan's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figaro0414&layout=compact&locale=en"
-    alt="Jonathan's Top Languages"
-  />
-</p>
+I'm actively building projects and documenting my growth as a software engineer.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Figaro0414-181717?style=for-the-badge&logo=github)](https://github.com/Figaro0414)
 
 ---
 
