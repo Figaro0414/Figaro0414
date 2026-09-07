@@ -1,35 +1,102 @@
-<!-- ### Hi there 👋-->
+# 👋 Hi, I'm Jonathan Moya
 
-<!--
-**Figaro0414/Figaro0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I'm a Full Stack Software Engineer focused on building **modern, scalable, and user-focused applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Jonathan Moya</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
-<!--
-- 📫 How to reach me **<email>**
--->
+My background in IT and networking gives me a strong foundation in understanding systems from both the infrastructure and software perspectives. I'm particularly interested in **web development, backend architecture, APIs, databases, and cloud technologies**.
 
+---
 
-<!-- <h3 align="left">Connect with me:</h3>
+## 🚀 What I'm Working On
+
+* 🔨 Building and improving full-stack applications
+* 🌱 Expanding my knowledge of **Python, Java, React, and backend architecture**
+* 🧠 Learning more about **software architecture, CI/CD, and cloud technologies**
+* 💡 Developing personal projects that challenge me to learn new technologies
+* 📚 Continuing my growth as a software engineer
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
 <p align="left">
-</p> -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=figaro0414&show_icons=true&locale=en&layout=compact" alt="figaro0414" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=figaro0414&show_icons=true&locale=en" alt="figaro0414" /></p>
+### Backend
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=figaro0414&" alt="figaro0414" /></p> -->
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🎵 Slotify
+
+A full-stack application built with **React, Django, and the Spotify API**.
+
+> More details coming soon.
+
+### 💬 ConnectForums
+
+A real-time forum application built with **React, Django, Django Channels, Redis, and WebSockets**.
+
+> More details coming soon.
+
+### ✅ Java To-Do Application
+
+A backend-focused application built with **Java and Spring Boot**, demonstrating REST API development and backend architecture.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=figaro0414&show_icons=true&locale=en" alt="Jonathan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=figaro0414&show_icons=true&locale=en&layout=compact" alt="Jonathan's Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with other developers, collaborating on projects, and learning new technologies.
+
+<p align="center">
+  <a href="https://github.com/Figaro0414">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
