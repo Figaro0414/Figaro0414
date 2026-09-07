@@ -11,7 +11,7 @@ My background in IT and networking gives me a strong foundation in understanding
 ## 🚀 What I'm Working On
 
 * 🔨 Building and improving full-stack applications
-* 🌱 Expanding my knowledge of **Python, Java, React, and backend architecture**
+* 🌱 Expanding my knowledge of **Python, JavaScript, React, and backend architecture**
 * 🧠 Learning more about **software architecture, CI/CD, and cloud technologies**
 * 💡 Developing personal projects that challenge me to learn new technologies
 * 📚 Continuing my growth as a software engineer
@@ -68,34 +68,28 @@ My background in IT and networking gives me a strong foundation in understanding
 
 A full-stack application built with **React, Django, and the Spotify API**.
 
-> More details coming soon.
+> 🚧 Currently being rebuilt from the ground up.
 
 ### 💬 ConnectForums
 
 A real-time forum application built with **React, Django, Django Channels, Redis, and WebSockets**.
 
-> More details coming soon.
-
-### ✅ Java To-Do Application
-
-A backend-focused application built with **Java and Spring Boot**, demonstrating REST API development and backend architecture.
+> 🚧 Currently being developed.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 I'm actively building projects and documenting my growth as a software engineer.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Figaro0414-181717?style=for-the-badge&logo=github)](https://github.com/Figaro0414)
+<p align="center">
+  <a href="https://github.com/Figaro0414">
+    <img src="https://img.shields.io/badge/GitHub-Figaro0414-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on projects, and learning new technologies.
-
-<p align="center">
-  <a href="https://github.com/Figaro0414">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
