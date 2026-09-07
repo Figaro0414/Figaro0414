@@ -85,8 +85,14 @@ A backend-focused application built with **Java and Spring Boot**, demonstrating
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=figaro0414&show_icons=true&locale=en" alt="Jonathan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=figaro0414&show_icons=true&locale=en&layout=compact" alt="Jonathan's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Figaro0414&show_icons=true&locale=en"
+    alt="Jonathan's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figaro0414&layout=compact&locale=en"
+    alt="Jonathan's Top Languages"
+  />
 </p>
 
 ---
